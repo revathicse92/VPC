@@ -25,6 +25,14 @@ To understand VPC, it's important to understand the different components that ma
 
 ![Image Alt](https://github.com/revathicse92/VPC/blob/86954da4f2bb80f7932bf83dc504ad759ce97eab/VPC%20SCREENSHOT/VPC-CREATION.PNG) 
 
+# Step 2:- Subnet Creation
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/c50b40ca23f62685a245c3b869d6c62ebeb968cb/VPC%20SCREENSHOT/SUBNET%20CREATION.PNG) 
+
+# Step 3:- Route Table Creation
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/c50b40ca23f62685a245c3b869d6c62ebeb968cb/VPC%20SCREENSHOT/ROUTE%20TABLE%20CREATION.PNG)   
+
 
   
   
