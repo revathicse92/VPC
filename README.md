@@ -54,6 +54,16 @@ To understand VPC, it's important to understand the different components that ma
 
 ![Image Alt](https://github.com/revathicse92/VPC/blob/01086b26b4f2db117cffb1d4dc2f68dd65ba0fce/VPC%20SCREENSHOT/LINUX%20MACHINE%20CONNECT%20WITH%20PUTTY.PNG) 
 
+# Step 8:- Nat Gateway Creation
+
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/ed7f9315b2a78bdebabb077d08f22415f0e662c5/VPC%20SCREENSHOT/NAT_GATEWAY_CREATION.PNG)   
+
+# Step 9:- Final Output of the Project
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/ed7f9315b2a78bdebabb077d08f22415f0e662c5/VPC%20SCREENSHOT/FINAL%20OUTPUT.GETTING%20INTERNET%20ACCESS.PNG)   
+![Image Alt](https://github.com/revathicse92/VPC/blob/ed7f9315b2a78bdebabb077d08f22415f0e662c5/VPC%20SCREENSHOT/FINALLY%20GETTING%20INTERNET%20CONNECTION%20WITH%20PRIVATE%20SERVER.PNG)  
+
 
   
   
