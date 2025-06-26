@@ -33,6 +33,27 @@ To understand VPC, it's important to understand the different components that ma
 
 ![Image Alt](https://github.com/revathicse92/VPC/blob/c50b40ca23f62685a245c3b869d6c62ebeb968cb/VPC%20SCREENSHOT/ROUTE%20TABLE%20CREATION.PNG)   
 
+# Step 4:- Internet Gateway Creation
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/01086b26b4f2db117cffb1d4dc2f68dd65ba0fce/VPC%20SCREENSHOT/INTERNET%20GATEWAY.PNG) 
+
+# Step 5:- Security Group Creation
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/01086b26b4f2db117cffb1d4dc2f68dd65ba0fce/VPC%20SCREENSHOT/SECURITY%20_GROUP.PNG)  
+
+# Step 6:- Windows and Linux Machine Creation
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/01086b26b4f2db117cffb1d4dc2f68dd65ba0fce/VPC%20SCREENSHOT/PRIVATE_WIN_SERVER.PNG)
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/01086b26b4f2db117cffb1d4dc2f68dd65ba0fce/VPC%20SCREENSHOT/PUBLIC%20AND%20PRIVATE%20LINUX%20SERVER.PNG)    
+
+
+# Step 7:- Connecting with windows and Linux 
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/01086b26b4f2db117cffb1d4dc2f68dd65ba0fce/VPC%20SCREENSHOT/WINDOWS%20SERVER%20CONNECT%20WITH%20RDP.PNG)   
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/01086b26b4f2db117cffb1d4dc2f68dd65ba0fce/VPC%20SCREENSHOT/LINUX%20MACHINE%20CONNECT%20WITH%20PUTTY.PNG) 
+
 
   
   
