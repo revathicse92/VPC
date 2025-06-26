@@ -19,6 +19,12 @@ To understand VPC, it's important to understand the different components that ma
 
 **Internet Gateway**: Internet Gateway is a VPC component that allows communication between your VPC and the Internet.
 
+# Practical steps involved in vpc:-
+
+# Step 1:- Vpc Creation
+
+![Image Alt](https://github.com/revathicse92/VPC/blob/86954da4f2bb80f7932bf83dc504ad759ce97eab/VPC%20SCREENSHOT/VPC-CREATION.PNG) 
+
 
   
   
